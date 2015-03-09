@@ -11,6 +11,8 @@ public class FunGrid {
         new FunGrid();
         System.out.println("hello there");
          System.out.println("hello everywhere");
+         System.out.println("hello hello hello");
+
     }
 
 }
