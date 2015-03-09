@@ -10,6 +10,7 @@ public class FunGrid {
     public static void main(String[] args) {
         new FunGrid();
         System.out.println("hello there");
+         System.out.println("hello everywhere");
     }
 
 }
